@@ -7,7 +7,7 @@
     }
 ], 
 "routes": [
-    { "source": "/(.*)", "destination": "/" 
+    { "src": "/(.*)", "dest": "/" 
     }
     ]
  }
